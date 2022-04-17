@@ -1,5 +1,308 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-12T11:07:31+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Youdong Zhang</title><entry><title type="html">测试</title><link href="http://localhost:4000/test/2022/04/12/Test-Blog.html" rel="alternate" type="text/html" title="测试" /><published>2022-04-12T00:00:00+08:00</published><updated>2022-04-12T00:00:00+08:00</updated><id>http://localhost:4000/test/2022/04/12/Test%20Blog</id><content type="html" xml:base="http://localhost:4000/test/2022/04/12/Test-Blog.html"><![CDATA[<h3 id="测试中">测试中</h3>
-<p>内容还在准备中哦～</p>]]></content><author><name></name></author><category term="test" /><summary type="html"><![CDATA[测试中 内容还在准备中哦～]]></summary></entry><entry><title type="html">Emojis list</title><link href="http://localhost:4000/emoji/2020/12/22/All-Emoji-List.html" rel="alternate" type="text/html" title="Emojis list" /><published>2020-12-22T00:00:00+08:00</published><updated>2020-12-22T00:00:00+08:00</updated><id>http://localhost:4000/emoji/2020/12/22/All%20Emoji%20List</id><content type="html" xml:base="http://localhost:4000/emoji/2020/12/22/All-Emoji-List.html"><![CDATA[<h2 id="here-is-the-list-of-all-the-emoji-or-atleast-max-of-it">Here is the list of all the emoji or atleast max of it.</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-17T20:22:18+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Youdong Zhang</title><entry><title type="html">内容准备中</title><link href="http://localhost:4000/preparing/2022/04/17/Test-Blog.html" rel="alternate" type="text/html" title="内容准备中" /><published>2022-04-17T00:00:00+08:00</published><updated>2022-04-17T00:00:00+08:00</updated><id>http://localhost:4000/preparing/2022/04/17/Test%20Blog</id><content type="html" xml:base="http://localhost:4000/preparing/2022/04/17/Test-Blog.html"><![CDATA[<p>更多的内容还在准备中，敬请期待哦～</p>]]></content><author><name></name></author><category term="Preparing" /><summary type="html"><![CDATA[更多的内容还在准备中，敬请期待哦～]]></summary></entry><entry><title type="html">2021年终总结：鲜花怒马少年时，一日看尽长安花</title><link href="http://localhost:4000/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/2021/12/31/2021%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93.html" rel="alternate" type="text/html" title="2021年终总结：鲜花怒马少年时，一日看尽长安花" /><published>2021-12-31T00:00:00+08:00</published><updated>2021-12-31T00:00:00+08:00</updated><id>http://localhost:4000/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/2021/12/31/2021%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93</id><content type="html" xml:base="http://localhost:4000/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/2021/12/31/2021%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93.html"><![CDATA[<p>2021即将结束，大学生活也随之到了尾声。回顾这一年，有不如意的失落也有收获的喜悦。三年如一日的大学生活得到了回报，同时也是一个新起点新挑战，需要继续努力探索发现。下面从 于CSDN、精工博学、止于至善 三个方面总结我的2021。</p>
+
+<hr />
+<h1 id="于csdn记录总结碎碎念">于CSDN，记录总结碎碎念</h1>
+
+<p><img src="https://img-blog.csdnimg.cn/1fd21ecd56b54354bccb22211244be4b.png" alt="在这里插入图片描述" /></p>
+
+<center>▲ 2021年CSDN回忆录</center>
+
+<p>2021-12-31 是我在CSDN写博客的708天（2020-01-23开始写的博客）</p>
+
+<ul>
+  <li><strong>原创文章</strong>一共 <strong>94篇</strong>，今年有 <strong>28篇</strong> 原创文章。</li>
+  <li><strong>总排名</strong>从去年的 1w+ 到今年的 <strong>1k+</strong>。</li>
+  <li><strong>访问量</strong>从去年的 13w+ 到今年的 <strong>32w+</strong>。</li>
+  <li><strong>粉丝量</strong> 从去年的 3k+ 到今年的 <strong>1w+</strong>。</li>
+  <li>积分增加 3k+，获赞量增加约 1k，收藏增加 2k+（哈哈都去收藏夹里吃灰去了）</li>
+</ul>
+
+<p><img src="https://img-blog.csdnimg.cn/c105f3bc88b54ecb8c3dd36b76a155df.png" alt="在这里插入图片描述" /></p>
+<center>▲ 从 2020 到 2021 </center>
+
+<p>2021的发文记录与2020相比，有些稀稀落落。其中还是有很多原因的，2020上半年Yi情期间在家线上学习没有回到学校，所以空余的时间就比较多，然后发文就很勤快。而2021重返学校，学习任务也比较重，发文就很偷懒了，不过还是保持一种学习的状态。</p>
+
+<p><img src="https://img-blog.csdnimg.cn/855f81c842934460bac00885806daba0.png" alt="在这里插入图片描述" /></p>
+<center>▲ 2021 发文记录 </center>
+
+<p><img src="https://img-blog.csdnimg.cn/78835b444301494592050bd5dc820ea9.png" alt="在这里插入图片描述" /></p>
+<center>▲ 2020 发文记录</center>
+
+<p>主要还是12月的发文，一共8篇，继续学习Python。</p>
+
+<p><img src="https://img-blog.csdnimg.cn/1c1c469a110f432caca368e049317a6c.png" alt="在这里插入图片描述" /></p>
+<center>▲ 2021年12月Python系列</center>
+
+<p><img src="https://img-blog.csdnimg.cn/7413d6ac41bb4eeea9f436edc43ff940.png" alt="在这里插入图片描述" /></p>
+
+<center>▲ 2021年7月Maix Bit系列</center>
+
+<p><img src="https://img-blog.csdnimg.cn/a4888bd565d04c3babc53792e8043e46.png" alt="在这里插入图片描述" /></p>
+
+<center>▲ 2021年6月现代控制理论基础系列</center>
+
+<ul>
+  <li>2021年初在 CSDN 情人节的创作活动中，投稿了一篇文章：<a href="https://axyzdong.blog.csdn.net/article/details/113770949">「情人节快到了」“码”出礼物，一片“芯”意</a>，然后获得了 <strong>心心相印奖 -&gt; 天猫精灵</strong></li>
+  <li>2月份在 InfoQ 参加21天日更活动，主要是把 CSDN 文章搬运到上面。完成任务后，还可以抽奖，很幸运中奖了，还发了个证书。</li>
+</ul>
+
+<p><img src="https://img-blog.csdnimg.cn/ea54c5a15f0f4b109537932215f22125.png" alt="在这里插入图片描述" /></p>
+<center>▲ CSDN 和 InfoQ 的奖品</center>
+
+<hr />
+<h1 id="精工博学风雨中学会奔跑">精工博学，风雨中学会奔跑</h1>
+<p>3月开学了，买汤老师的1800和辅导讲义，准备考研复习高等数学。大概一个月左右时间，看完了二重积分，把1800的入门篇做完，基础篇题目多就没做了。4月份开始复习一两个星期，开始看线性代数，主要是这学期学现代控制理论基础，里面用到很多线性代数的知识，所以就提前看了线性代数。5月份准备六级，这次想把分刷高一点，但是考完就发了条朋友圈，感觉很差。</p>
+
+<p>同时，4月份也开始准备夏令营的各种材料，成绩单、成绩排名证明、各种证书扫描件…</p>
+
+<p><img src="https://img-blog.csdnimg.cn/4db5ed5fef434fd78ac7456d7790b6e5.png" alt="在这里插入图片描述" /></p>
+<center>▲ 六级考完感慨</center>
+
+<p>5月份期间同时也开始课程的复习，专业英语是最先考的，印象最深，老师给的平时分巨低，或许是大学里第一次平时分比卷面分低一个档次吧。</p>
+
+<p><img src="https://img-blog.csdnimg.cn/e3f65a1ea3c24283a104cd00c9608cb4.png" alt="在这里插入图片描述" /></p>
+<center>▲ 五月小事</center>
+
+<p>六月份，来到了期末，复习各种课程：PAC、供配电、工业局域网、现代控制理论基础、计算机控制技术。</p>
+
+<ul>
+  <li><strong>PAC 和 供配电</strong> 专业选修课，但是闭卷考试，老师上课讲的很杂，不需要书，不过最后考试题目基本上每年都差不多，就是要背书；</li>
+  <li><strong>工业局域网</strong> 有点计算机网络的意思。老师平时上课讲的都挺多的，每次上课都坐前排，不过不大理解这门课可以做什么用，可能是为 工控网实习 做准备吧，主站和从站之间组网；</li>
+  <li><strong>专业英语</strong> 对老师比较无语，有自己的一套规则，也是要记的东西比较多；</li>
+  <li><strong>现代控制理论基础</strong> 利用状态空间表达式对系统进行建模分析和设计。这门课和自控选的一个老师，风格都已经很清楚，主要还是靠自己期末复习，做多点题目；</li>
+  <li><strong>计算机控制技术</strong> 这门课还是有点难度的，没有可以参考的试卷，老师平时做的测验考试前都做了一遍，大林算法 史密斯预估 。</li>
+</ul>
+
+<p>这个月也是压力最大的一月，白天忙着复习课程，同时还关注着各个学校的夏令营信息，晚上回宿舍查投夏令营学校的导师信息，看导师方向，准备发导师的邮件。为了白天不让QQ聊天信息通知干扰，我就关闭了消息通知，结果有一天辅导员找我，打我QQ电话，我一点都不知道，辅导员还在大群里让人帮联系。后来和辅导员说明情况，辅导员也很理解。</p>
+<ul>
+  <li>6.18 所有课程的考试结束，剩下两门课程设计：工控网实习和自动控制原理课程设计。6月底7月初结束了这两门课程设计，也是做了好长时间。</li>
+</ul>
+
+<p>7月份，选择留校，参加线上夏令营。</p>
+<ul>
+  <li>参加了一些夏令营，好一点的学校很难有机会入营。7.30号最后一个夏令营结束。准备夏令营积累一些经验，预推免再冲一冲。不过到后来发现，越来越卷。</li>
+  <li>整个7月份基本上就是参加线上夏令营：听讲座、再面试。</li>
+</ul>
+
+<p><img src="https://img-blog.csdnimg.cn/8ef58ace336341fa9f7d4821efa8c5ca.png" alt="在这里插入图片描述" /></p>
+
+<center>▲ 7月傍晚校园 </center>
+
+<p>7月底8月初，电赛赛前准备，结果 8.3 组委会就通知比赛延期举行。</p>
+
+<blockquote>
+  <p>鉴于当前全国疫情防控的形势，根据教育部的紧急通知精神，全国组委会工作会议决定延期举行2021年全国大学生电子设计竞赛，待疫情好转后，再择机启动。</p>
+</blockquote>
+
+<p>夏令营结束，电赛延期，后面就没啥事了。</p>
+
+<p>8月份七夕左右，腾讯云有个七夕活动，抱着参与的态度参加了活动。最后很是幸运，抽到 <strong>腾讯定制牛年八音盒</strong>，还挺可爱的。</p>
+
+<p><img src="https://img-blog.csdnimg.cn/2454620f94dd4b568f4aa3dbd2b5d2cf.png" alt="在这里插入图片描述" /></p>
+<center> ▲ 中奖截图和实物图 </center>
+
+<p>还有个获奖忘记领了。。。
+<img src="https://img-blog.csdnimg.cn/dd5d3f2a9cb54a19bd2f685da876169c.png" alt="在这里插入图片描述" /></p>
+
+<center> ▲ 这个就忘记领了 </center>
+
+<hr />
+<h1 id="止于至善路漫漫其修远兮">止于至善，路漫漫其修远兮</h1>
+<p>9月份，开启大四上学期。</p>
+
+<p>上学期四门课，电力拖动自动控制系统、过程控制系统、DSP原理及应用和生产实习。</p>
+
+<ul>
+  <li><strong>电力拖动自动控制系统</strong> 最专业的一门专业课，不过老师上课基本上对着PPT说，难度也比较大。然后这门课还有个课程设计，下年初交；</li>
+  <li><strong>过程控制系统</strong> 上课没怎么听，每周一晚上三节连堂，</li>
+  <li><strong>DSP原理及应用</strong>  专业选修课，不过上课还是比较认真听的，老师讲的也比较有意思，主要还是数字信号处理芯片以及汇编代码指令，也是最先考试的一门课；</li>
+  <li><strong>生产实习</strong> 主要是参观马钢的几个生产基地。</li>
+</ul>
+
+<p>刚开学多一个身份：21级新生的班助。他们刚来到学校，有很多疑问，主要给他们答疑解惑。期间还有个最美班助评选活动，本来是不准备申请的，然后是谁让所有班助都交了申请表。最后还获了二等奖。</p>
+
+<p>来到10月份，大概有半年没回家，十一国庆节七天假回家一趟。假期后就开始了三周的生产实习，一直到10月底结束。生产实习的安全帽，一个人拿了全班的（当时也不知道，不知哪个学长说的一个人就够了），一手拎20个，真的是重。实习完颓废了几周。</p>
+<ul>
+  <li>1024 发文  —— <a href="https://axyzdong.blog.csdn.net/article/details/120943104">「与山齐高，云朵之上」CSDN写文章的第二个1024</a></li>
+</ul>
+
+<p>11月3号，晚上8点30，大学期间倒数第三门课考试结束，DSP技术与应用。</p>
+<ul>
+  <li>感受：基本上就是从头做到尾，大概昨晚还剩十几分钟，检查了一遍，发现几个错误，改过来了。老师之前上课说基本上往年考试很少有人提前交卷，今晚果然是这样。虽然提前做玩，还是和以前一样检查一遍，好的习惯继续保持，哈哈哈。</li>
+</ul>
+
+<p>考完收拾好东西直奔电气楼，4号早上7点半电赛开题，冲冲冲！</p>
+
+<p>11.4-11.7，四天三夜，陪队友熬了三个晚上。</p>
+<ul>
+  <li>当时选的是D题，队伍大佬直接带飞。今年的电赛氛围不够，没有去年热闹了，队伍更分散了。</li>
+</ul>
+
+<p><img src="https://img-blog.csdnimg.cn/9c90739292d34da199d6e7bbfe863fa8.png" alt="在这里插入图片描述" /></p>
+<center> ▲ D题 摄像测量系统 </center>
+
+<ul>
+  <li>或许是大学里面最后一次比赛了，没有去年的热情，气氛也没那么紧张了。团队中还是要发挥自己的长处，做自己喜欢做的事情，继续加油努力！</li>
+</ul>
+
+<p><img src="https://img-blog.csdnimg.cn/97bbc9a192ee42c0afa00835d9fb15a2.png" alt="在这里插入图片描述" /></p>
+<center> ▲ 跟踪被测激光笔 </center>
+
+<p>11月份，也颓废了几个星期，紧接着就是准备“十佳班级”的材料。前前后后准备了几个星期，纸质材料、电子展板、答辩PPT..</p>
+
+<p>12-07晚上答辩，还算顺利，所在班级成功评上校第八届“十佳班级”。</p>
+
+<p><a href="https://www.bilibili.com/video/BV1tZ4y1R7eQ/">记录｜从创建到获评“十佳班级”｜点滴回忆</a></p>
+
+<p>12-18 第四次战六级，这一次考六级没有太多的感觉，最后的翻译可能印象比较深吧，因为最后翻译没写完。吸取上次的教训，前面阅读按照规定的时间做完，留下大概25分钟写翻译，不过有些特殊名词还是遇到少了，停顿了好长时间。</p>
+
+<p>12月期间断断续续做了一点毕设，仿真成功后，实物元器件问题还是比较大，还是要继续加油。</p>
+
+<hr />
+<h1 id="总结展望全力以赴为前途">总结展望，全力以赴为前途</h1>
+<p>12月11日去年写的一封信如约而至，2020对2021的期待差强人意。
+同时也渐渐懂得，什么都可以变化的，什么都有人味的，什么都有弯绕曲折的。</p>
+
+<p><img src="https://img-blog.csdnimg.cn/0534b0a8e6bd46478167e7b7acf78753.png" alt="在这里插入图片描述" /></p>
+
+<p>鲜花怒马少年时，一日看尽长安花。星光不问赶路人，时光不负有心人。</p>
+
+<p>2022 希望继续保持好习惯，希望继续为前途努力奋斗，希望继续为梦想全力以赴！</p>
+
+<center><strong> AHUT 三年如一日，2021新的转折新的起点，其中略有遗憾。</strong></center>
+<center><strong> SEU 下一站三年，2022止于至善追梦不息，迎接新的挑战！</strong></center>
+
+<p align="right"> —— 2021-12-31 AXYZdong 写于安徽马鞍山 </p>]]></content><author><name></name></author><category term="年终总结" /><summary type="html"><![CDATA[2021即将结束，大学生活也随之到了尾声。回顾这一年，有不如意的失落也有收获的喜悦。三年如一日的大学生活得到了回报，同时也是一个新起点新挑战，需要继续努力探索发现。下面从 于CSDN、精工博学、止于至善 三个方面总结我的2021。]]></summary></entry><entry><title type="html">2020年终总结：未觉昨日事多少，光阴流转已半年</title><link href="http://localhost:4000/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/2020/12/31/2020%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93.html" rel="alternate" type="text/html" title="2020年终总结：未觉昨日事多少，光阴流转已半年" /><published>2020-12-31T00:00:00+08:00</published><updated>2020-12-31T00:00:00+08:00</updated><id>http://localhost:4000/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/2020/12/31/2020%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93</id><content type="html" xml:base="http://localhost:4000/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/2020/12/31/2020%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93.html"><![CDATA[<p>2020过得似乎有点快，转眼12月即将结束。有上半年在家的“无所事事”，亦有下半年学校的“忙忙碌碌”，总体上感觉时光易逝，转眼就大三了，大学已过了5/8，幻想着自己的前途与未来，该何去何从？</p>
+
+<p>下面这篇文章将从四个方面总结我的2020。</p>
+
+<hr />
+<h1 id="忆博客稳中有进">忆博客——稳中有进</h1>
+<p>2020 一共 <strong>66篇</strong> 原创文章，粉丝 <strong>3k+</strong>，阅读量 <strong>13w+</strong></p>
+
+<p><img src="https://img-blog.csdnimg.cn/20201231202535579.png" alt="在这里插入图片描述" /></p>
+
+<p>2020-1-23 号开始写第一篇博客，陆陆续续，各种数据也慢慢上升，尤其是“疫情”期间比较勤快，写的文比较多。后来下半年返校上学，这段时间文章就很少了，不过1024参加了一个活动，获个小奖，奖品卫衣也不错。</p>
+
+<p>获奖公示：<a href="https://blog.csdn.net/blogdevteam/article/details/109536460?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522160726540919724847156044%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&amp;request_id=160726540919724847156044&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_v29-4-109536460.pc_v2_rank_blog_default&amp;utm_term=1024%E5%BE%81%E6%96%87&amp;spm=1018.2118.3001.4450">“1024”征文活动结果新鲜出炉！快来看看是否榜上有名？~~</a></p>
+
+<p><img src="https://img-blog.csdnimg.cn/20201206223907578.png" alt="在这里插入图片描述" /></p>
+
+<p>我的是“最爆款”奖，获奖文章：<a href="https://axyzdong.blog.csdn.net/article/details/109313621">基于matlab的控制系统与仿真-3</a></p>
+
+<p>收到的卫衣：</p>
+
+<p><img src="https://img-blog.csdnimg.cn/20201127222602935.png" alt="CSDN定制帽衫" /></p>
+<center> ▲ CSDN定制卫衣 </center>
+
+<hr />
+<h1 id="忆学习锲而不舍">忆学习——锲而不舍</h1>
+<p>还记得8月末的开学，室友之前似乎有些陌生，宿舍沉睡了大半年，我还好是六楼，被子啥的都没有上霉。</p>
+
+<p>开学时的一大堆考试，一直持续到 9-13 号，最后一门 “电拖”，当晚考完后就稍稍放松。之后，补做了上学期的各种实验（电拖实验、模电实验）。接着来到十月，由于各种比赛的原因，下学期的课也没听多少。</p>
+
+<ul>
+  <li>
+    <p><strong>电力电子技术</strong> 这门课上课基本没听，而且这门课晚上三节连着上，稍不留神就啥也听不懂了，最后考前复习的时候，看书才一点点看懂的。</p>
+  </li>
+  <li>
+    <p><strong>自动控制原理</strong> 这门课也比较懵逼，老师上课有点“跳跃”（内容讲的比较快），不预习的话根本听不懂（话说我预习之后发现也听不懂），后来转战 B站卢老师的《自动控制原理》的课，感觉卢老师讲得实在是太好了，老师讲的基本都能听懂。12-28考完，自控题目风格与往年迥然不同，七个大题每题都有点“转弯”，不好做。</p>
+  </li>
+  <li>
+    <p><strong>微机原理与接口技术</strong> 上课是个大教室，前几节课坐后面几乎听不到老师在讲什么，刚好那一阵子做电赛，有几节课没去。之后，每次基本都坐前排，听得很清楚，遇到不会的课后再复习复习，感觉还好，渐渐的走上正轨。</p>
+  </li>
+  <li>
+    <p><strong>PLC</strong> 中途换了老师，之前那老师上课我也基本没听懂，后来换老师之后感觉就好点了。</p>
+  </li>
+  <li><strong>CAD</strong> 画图还好，上课也能和老师同步，不过每周一下午的上机感觉有点水，主要还是靠自己自觉，好多人都没去。</li>
+  <li><strong>控制系统仿真</strong> 主要还是simulink仿真，其他的还是调用matlab的一些函数。借着老师布置的课后习题的机会，我也写了相关习题的解答过程，6篇文章分别对应6个章节，【基于matlab的控制系统仿真】，文章已上传至博客。</li>
+</ul>
+
+<p>大三上学期一共 6 门课——自动控制原理、电力电子技术、微机原理与接口技术、PLC、控制系统仿真、CAD</p>
+
+<p>3 门课程设计——电力电子课程设计、微机课程设计、PLC课程设计；</p>
+
+<p>4 门课要做实验——自控、电力电子 、微机 、PLC 。</p>
+
+<hr />
+<h1 id="忆竞赛迎难而上">忆竞赛——迎难而上</h1>
+<p>大三下应该是大学以来竞赛比较多的一个学期了</p>
+
+<p>从 8 月底一直到 11 月中旬，前后经历了：光电设计大赛 -&gt; 机械创新大赛  -&gt;  电子设计大赛  -&gt;  蓝桥杯 -&gt; 半导体光源竞赛  -&gt;  智能车竞赛 -&gt; 物联网竞赛（12-05）</p>
+
+<p>印象比较深的还是电赛和蓝桥了。</p>
+
+<p><strong>电赛（10-10 ~ 10-13 ，四天四夜）</strong>
+往年电赛一般都是四天三夜，今年不知为何，比赛前夜就发了赛题，这不经让人有所怀疑。但是，接到老师的正式通知后才安心的看题。</p>
+
+<p>当晚还没看到赛题之前我还发了一篇博客，实数打脸了。</p>
+
+<p><img src="https://img-blog.csdnimg.cn/20201207213824815.png" alt="在这里插入图片描述" /></p>
+<center> ▲ 电赛前夜发的一篇博客 </center>
+
+<p>晚上和队友研究了一下题目，最后预选了 F 题（原本想做 C 题的小车，不过它要求用 IT 的单片机，之前队里没人玩过，怕上手来不及。后来，省组委会说这题不限单片机，那时候我们 F 题都已经在做了，也没想着临时换题目）</p>
+
+<p><img src="https://img-blog.csdnimg.cn/cover7/480354330812874806.jpg" alt="在这里插入图片描述" /></p>
+
+<p>其实这题我们做的很快，当时为了寻找一个稳定的实现方法，我们做了两个方案，一个是用树莓派做人脸识别，另一个是用 K210 。最后，我们选择了 K210，因为树莓派可能因为算力不够，导致采集图像的时候很卡，K210当时用的很流畅。这题的另外一个功能是红外测温，感觉和人脸识别没啥关系，可能是今年 Yi 情的缘故吧，我们用 32 做的，关键在于测量的准确性，红外测温传感器的测温距离要远，然后是用单片机对数据进行相关处理，让测量更加精确。</p>
+
+<p><img src="https://img-blog.csdnimg.cn/20201207220933916.png#pic_center =600x" alt="在这里插入图片描述" /></p>
+
+<p>我们电赛的作品，总体上感觉还是小巧精致的！</p>
+
+<p><img src="https://img-blog.csdnimg.cn/20201127221212397.png" alt="在这里插入图片描述" /></p>
+<center> ▲ 电赛作品 </center>
+
+<p>14 号我们去安徽理工大学测试，我们组是下午测试，当时还是很紧张的，轮到我们打开封箱恢复作品的时候，手都抖。我们演示功能还是比较顺利的，功能基本完成，评委老师还说我们这组完成的不错。</p>
+
+<p>不枉费我们的四天四夜，最终拿了这组的省一。这四天四夜，几乎没有睡觉，在此过程中也会遇到难题，我们一步步解决。从白天到黑夜，从方案选型到电路搭建，从作品整体排布到设计报告，只有经历过，才能体会到过程的艰辛。</p>
+
+<p>动手能力、团队协作、坚持不懈、迎难而上这是我在电赛中所体会到的。</p>
+
+<p>四天四夜算不上人生的一笔浓墨重彩，但也是我大学成长中难忘的一次经历。</p>
+
+<p><img src="https://img-blog.csdnimg.cn/20201127220955940.png" alt="在这里插入图片描述" /></p>
+<center> ▲ 10.14 TI杯安徽省电子设计大赛 </center>
+
+<p><strong>蓝桥（10-18）</strong>
+电赛结束后，紧接着就是蓝桥，只有两天左右的时间，当时是周六（17号）比赛，一天时间，那天刚好我还有实验课考试，和老师商量调整到周日下午了。比赛当天起的很早，学校坐的大巴去的当时赛点（南京师范大学中北学院），坐标镇江丹阳。这个学校里面的环境啥的比我自己学校好很多了。</p>
+
+<p>电子类——单片机设计与开发，上午 9 点开始，5 个小时的比赛时间，当时自己有点 “漂”，客观题没有认真做，程序题功能都实现了，最后只拿了一个省二，也是在我的意料之中，因为之前做电赛基本上没有时间准备蓝桥，电赛结束后，也只看了一些基础的程序。在大巴车上看了一下 DA ，结果考到了，有点幸运。总体上，程序题不是很难，与往年相比简单了一点。</p>
+
+<p><img src="https://img-blog.csdnimg.cn/20201127221306109.png" alt="在这里插入图片描述" /></p>
+<center> ▲ 10.18 蓝桥杯 </center>
+
+<hr />
+<h1 id="忆自己天道酬勤">忆自己——天道酬勤</h1>
+<center> 不经一番寒彻骨，怎得梅花扑鼻香。</center>
+
+<p>努力成为习惯，该有的都会有，没有的不强求。记得2019年末写给自己2020的一封信，那时希望2020的自己成为什么样子？一年的时间，自己给了自己想要的答案。</p>
+
+<p>当然，今年的12月11日也写了一封信给2021的自己，希望明年的自己也能给今年的自己一个满意的答案。</p>
+
+<p><img src="https://img-blog.csdnimg.cn/20201220163220957.png" alt="在这里插入图片描述" /></p>
+<center> ▲ 鲜衣怒马少年时，一日看尽长安花。</center>
+
+<p>一股力量不断激励着自己，自己想要什么？自己想成为什么样子的人？自己如何做才能成为自己想要成为的人？</p>
+
+<p>希望经历一番艰难险阻，有朝一日能够看尽长安花！</p>
+
+<hr />
+<h1 id="总结">总结</h1>
+<p>2020 大学的生活过去一大半，校园生活是美好的，总觉着时间不够用。学期初时的忙忙碌碌，再到学期末时的三点一线（图书馆——宿舍——食堂），没有那么 colorful，每天的 “常态化” 有时感到厌倦。早上的懒觉已成过去式，不常在宿舍室友甚至感到陌生。</p>
+
+<p>曾经 2020 还是小学作文里的遥远未来，如今即将要结束。原以为会希望 2020 再也不见，但说再见时竟有些想念，这一年里让我学会坚强，自己也感受到了成长。</p>
+
+<p>2020 突如其来的 Yi 情，让这平凡的一年变得不平凡，想说太多的感谢，感谢挺身而出的英雄，感谢默默无闻的守护，感谢身边人的陪伴，感谢辛勤的父母，也感谢一直努力的自己。</p>
+
+<p><img src="https://img-blog.csdnimg.cn/20201229212029190.png" alt="在这里插入图片描述" /></p>
+<center> ▲ 12-13、12-29 瑞雪兆丰年，希望来年丰收 </center>
+
+<p>2021 希望好的习惯继续保持；希望为前途奋斗打拼；希望为梦想全力以赴。沉淀 &amp; 提升 &amp; 突破！</p>
+
+<p>仰望天空，脚踏实地。多一份踏实，少一份浮躁！</p>
+
+<p align="right"> —— 2020-12-31   AXYZdong 写于安徽马鞍山 </p>]]></content><author><name></name></author><category term="年终总结" /><summary type="html"><![CDATA[2020过得似乎有点快，转眼12月即将结束。有上半年在家的“无所事事”，亦有下半年学校的“忙忙碌碌”，总体上感觉时光易逝，转眼就大三了，大学已过了5/8，幻想着自己的前途与未来，该何去何从？]]></summary></entry><entry><title type="html">Emojis list</title><link href="http://localhost:4000/emoji/2020/12/22/All-Emoji-List.html" rel="alternate" type="text/html" title="Emojis list" /><published>2020-12-22T00:00:00+08:00</published><updated>2020-12-22T00:00:00+08:00</updated><id>http://localhost:4000/emoji/2020/12/22/All%20Emoji%20List</id><content type="html" xml:base="http://localhost:4000/emoji/2020/12/22/All-Emoji-List.html"><![CDATA[<h2 id="here-is-the-list-of-all-the-emoji-or-atleast-max-of-it">Here is the list of all the emoji or atleast max of it.</h2>
 
 <p>People</p>
 
