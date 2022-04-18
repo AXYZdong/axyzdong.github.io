@@ -92,5 +92,5 @@ Most of the contents cite from this link: [https://github.com/rohitjain00/dev-po
 
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/github/license/axyzdong/axyzdong.github.io)](https://opensource.org/licenses/MIT)
 
